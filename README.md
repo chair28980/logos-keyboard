@@ -1,4 +1,4 @@
-# λKeyboard
+# λ Keyboard
 
 Are you tired of putting `Logos-` prefixes in front of every identifier? Do you want to be cool and use unicode characters where others think they shouldn't go?
 
